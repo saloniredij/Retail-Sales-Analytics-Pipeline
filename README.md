@@ -13,7 +13,7 @@ I've analyzed the Online Retail dataset (UK transactions) to identify bestseller
 ### Comparison by Day
 - **Busiest Day**: Tuesday (£1.88M)
 - **Runner Up**: Thursday (£1.79M)
-- *Note: Saturday shows no sales in this dataset (likely closed).*
+- *Note: Saturday shows no sales (likely closed).*
 
 ### Top Bestsellers (Revenue)
 1. **DOTCOM POSTAGE** (£206k)
